@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title>My Fist Webpage</title>
+  </head>
+  <body>
+    <h1> <b>My First Webpage</b> </h1>
+    <h3> <p> This is my first webpage, in which I have tried to program in HTML lenguage, which is the programing lenguage that I am learning. </p>
+      <h3> This is the page which is teaching me how to progam in HTML lenguage </h3>
+        <a href="https://codehs.com">
+          CodeHS
+          <a/>
+          <h3> Here is a list of an order I recomend to follow in order to learn HTML </h3>
+     <ul>
+       <li style="Color: Red;">Webpage Structure</li>
+       <li>Formatting text</li>
+       <li style="Color: Red;">Links</li>
+       <li>Images</li>
+       <li style="Color: Red;">Copyright</li>
+       <li>HTML Lists</li>
+       <li style="Color: Red;">HTML Tables</li>
+       <li>HTML Styling</li>
+       <li style="Color: Red;">HTML Colors</li>
+          </ul>
+          <h1>Thank You For reading my first webpage!</h1>
+  </body>
+</html>
